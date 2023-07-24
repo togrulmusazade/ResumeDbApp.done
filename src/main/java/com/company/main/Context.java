@@ -1,15 +1,15 @@
 package com.company.main;
 
-import main.company.dao.impl.CountryDaoImpl;
-import main.company.dao.impl.EmploymentHistoryDaoImpl;
-import main.company.dao.impl.SkillDaoImpl;
-import main.company.dao.impl.UserDaoImpl;
-import main.company.dao.impl.UserSkillDaoImpl;
-import main.company.dao.inter.CountryDaoInter;
-import main.company.dao.inter.EmploymentHistoryDaoInter;
-import main.company.dao.inter.SkillDaoInter;
-import main.company.dao.inter.UserDaoInter;
-import main.company.dao.inter.UserSkillDaoInter;
+import com.company.dao.impl.CountryDaoImpl;
+import com.company.dao.impl.EmploymentHistoryDaoImpl;
+import com.company.dao.impl.SkillDaoImpl;
+import com.company.dao.impl.UserDaoImpl;
+import com.company.dao.impl.UserSkillDaoImpl;
+import com.company.dao.inter.CountryDaoInter;
+import com.company.dao.inter.EmploymentHistoryDaoInter;
+import com.company.dao.inter.SkillDaoInter;
+import com.company.dao.inter.UserDaoInter;
+import com.company.dao.inter.UserSkillDaoInter;
 
 
 

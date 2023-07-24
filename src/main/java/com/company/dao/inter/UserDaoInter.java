@@ -1,6 +1,6 @@
-package main.company.dao.inter;
+package com.company.dao.inter;
 
-import main.company.entity.User;
+import com.company.entity.User;
 
 import java.util.List;
 

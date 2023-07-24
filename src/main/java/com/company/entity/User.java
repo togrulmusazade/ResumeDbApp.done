@@ -1,7 +1,8 @@
-package main.company.entity;
+package com.company.entity;
 
 import java.sql.Date;
 import java.util.List;
+import com.company.entity.Country;
 
 public class User {
     private int id;

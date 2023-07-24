@@ -1,8 +1,8 @@
-package main.company.dao.impl;
+package com.company.dao.impl;
 
-import main.company.dao.inter.AbstractDAO;
-import main.company.dao.inter.SkillDaoInter;
-import main.company.entity.Skill;
+import com.company.dao.inter.AbstractDAO;
+import com.company.dao.inter.SkillDaoInter;
+import com.company.entity.Skill;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

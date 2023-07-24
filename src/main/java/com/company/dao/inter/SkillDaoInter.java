@@ -1,6 +1,6 @@
-package main.company.dao.inter;
+package com.company.dao.inter;
 
-import main.company.entity.Skill;
+import com.company.entity.Skill;
 import java.util.List;
 
 public interface SkillDaoInter {

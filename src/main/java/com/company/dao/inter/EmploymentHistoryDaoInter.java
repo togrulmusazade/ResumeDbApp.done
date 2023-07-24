@@ -1,6 +1,6 @@
-package main.company.dao.inter;
+package com.company.dao.inter;
 
-import main.company.entity.EmploymentHistory;
+import com.company.entity.EmploymentHistory;
 
 import java.util.List;
 

@@ -1,9 +1,9 @@
-package main.company.dao.impl;
+package com.company.dao.impl;
 
-import main.company.dao.inter.AbstractDAO;
-import main.company.dao.inter.UserDaoInter;
-import main.company.entity.Country;
-import main.company.entity.User;
+import com.company.dao.inter.AbstractDAO;
+import com.company.dao.inter.UserDaoInter;
+import com.company.entity.Country;
+import com.company.entity.User;
 import java.sql.Connection;
 import java.sql.Date;
 import java.sql.PreparedStatement;

@@ -1,4 +1,4 @@
-package main.company.dao.inter;
+package com.company.dao.inter;
 
 
 import java.sql.Connection;
@@ -11,9 +11,9 @@ public abstract class AbstractDAO {
 
     public  Connection connect() throws SQLException{
 
-        String url="jdbc:mysql://localhost:3306/resumetekrar";
+        String url="jdbc:mysql://localhost:3306/resume";
         String username="root";
-        String password="19942368";
+        String password="elnurdeyanet1071"; //elnurdeyanet1071
         Connection c=DriverManager.getConnection(url, username, password);
         return c;
     }

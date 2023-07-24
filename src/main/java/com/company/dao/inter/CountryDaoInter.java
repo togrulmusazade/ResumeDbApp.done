@@ -1,6 +1,6 @@
-package main.company.dao.inter;
+package com.company.dao.inter;
 
-import main.company.entity.Country;
+import com.company.entity.Country;
 import java.util.List;
 
 

@@ -1,6 +1,6 @@
 package com.company.main;
 
-import main.company.dao.inter.UserDaoInter;
+import com.company.dao.inter.UserDaoInter;
 
 
 
