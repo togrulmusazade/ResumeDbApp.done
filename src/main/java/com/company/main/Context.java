@@ -1,4 +1,4 @@
-package main.company.main;
+package com.company.main;
 
 import main.company.dao.impl.CountryDaoImpl;
 import main.company.dao.impl.EmploymentHistoryDaoImpl;
