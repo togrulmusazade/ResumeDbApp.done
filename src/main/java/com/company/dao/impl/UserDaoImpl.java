@@ -39,6 +39,8 @@ public class UserDaoImpl extends AbstractDAO implements UserDaoInter {
         return new User(id, name, surname,profileDesc,phone, email,address,birthdate,nationality,birthplace);
 
     }
+
+
     @Override
     public List<User> getAll() {
         //Class.forName("com.mysql.jdbc.Driver");
@@ -63,6 +65,9 @@ public class UserDaoImpl extends AbstractDAO implements UserDaoInter {
         }
         return result;
     }
+
+
+
     @Override
     public boolean updateUser(User u) {
         //Class.forName("com.mysql.jdbc.Driver");
